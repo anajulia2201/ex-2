@@ -1,0 +1,17 @@
+/*
+ * Lab. 1
+ * Exemplo 1 
+ */
+ 
+ #include <stdio.h>
+ 
+ int main()	{
+ 	printf("mackenzie - FCI 1970\n") ;
+ 	printf("Algoritmos e ") ;
+ 	printf("Prog. ||\n") ;
+ 	printf("Turma 02P") ; 
+ 	
+ 	// pausa antes de terminar o programa
+//	system ("pause") ; 
+	return 0 ;
+}
